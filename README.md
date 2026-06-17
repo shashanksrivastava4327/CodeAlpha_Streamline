@@ -2,7 +2,7 @@
 
 # 🎬 STREAMLINE: NETFLIX EXPLORATORY DATA ANALYSIS
 
-### 📊 Data Analytics Internship Project
+### 📊 Data Analytics Project
 
 🚀 Analyze Netflix Data to Discover Trends and Insights
 
